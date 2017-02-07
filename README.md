@@ -8,14 +8,14 @@
 * Clone repository   
 * Create build directory:   
 `$ mkdir _build`   
-`cd _build`
+`$ cd _build`
 * Configure project:   
-`ccmake ..`   
+`$ ccmake ..`   
 * Press `c` and after `g`   
 * Build:   
 `$ make`   
 * Run example:   
-`cd ..`  
+`$ cd ..`  
 `$ ./_build/read_text ./img/number.png`  
 * Output:
 `Result: 82685` 
