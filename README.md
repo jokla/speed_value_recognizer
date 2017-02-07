@@ -11,7 +11,7 @@
 `$ cd _build`
 * Configure project:   
 `$ ccmake ..`   
-* Press `c` and after `g`   
+* Press `c` two times and after generate with `g`   
 * Build:   
 `$ make`   
 * Run example:   
